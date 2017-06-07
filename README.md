@@ -1,11 +1,11 @@
-# React Controlled Components Lab 
+# React Controlled Components Lab
 
-## Overview 
+## Overview
 
-In this lab, you'll write forms, write and use controlled components, and write validation for form components. 
+In this lab, you'll write forms, write and use controlled components, and write validation for form components.
 
 
-## Controlled Components 
+## Controlled Components
 
 Now that we know how to handle form elements in React and how to use controlled components, it's time to put that knowledge to the test. This lab is fairly extensive, but you'll use many core React concepts here that will surface again and again. Time to get some practice in!
 
